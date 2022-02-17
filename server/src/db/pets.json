@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "breed": 100000,
+    "breedLabel": "믹스",
+    "sex": "F",
+    "size": "1",
+    "fur": 10000,
+    "furLabel": "골든",
+    "birthDay": "2021-01-26",
+    "image": null,
+    "status": "1",
+    "insure": false
+  },
+  {
+    "id": 1,
+    "breed": 100000,
+    "breedLabel": "골든 리트리버",
+    "sex": "M",
+    "size": "2",
+    "fur": 10000,
+    "furLabel": "골든",
+    "birthDay": "2021-01-26",
+    "image": null,
+    "status": "0",
+    "insure": false
+  },
+  {
+    "id": 2,
+    "breed": 100000,
+    "breedLabel": "허스키",
+    "sex": "M",
+    "size": "3",
+    "fur": 10000,
+    "furLabel": "울프 그레이",
+    "birthDay": "2021-01-26",
+    "image": null,
+    "status": "0",
+    "insure": false
+  },
+  {
+    "id": 3,
+    "breed": 100000,
+    "breedLabel": "그레이트 데인",
+    "sex": "F",
+    "size": "4",
+    "fur": 10000,
+    "furLabel": "그레이",
+    "birthDay": "2021-01-26",
+    "image": null,
+    "status": "0",
+    "insure": false
+  }
+]
